@@ -39,3 +39,4 @@ if __name__ == "__main__":
         print("Provide Mac Address. E.g. 44:38:39:ff:ef:57")
         return
     run(mac_address)
+

@@ -5,7 +5,7 @@ Built api of [mac adress](https://macaddress.io/) with docker container.
 Follow the steps to install docker [here](https://docs.docker.com/install/linux/docker-ce/ubuntu/).
 
 ## Usage
-Created a docker image with name `interview-macip`.
+Build docker image and container and run it.
 
 First clone the repo and run below command
 
